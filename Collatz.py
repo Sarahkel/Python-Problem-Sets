@@ -11,6 +11,6 @@ while (n != 1):
     else:
         n = n * 3 + 1
         print (n)
-print (n)
+print ("Yay, you arrived at", n)
 
 
