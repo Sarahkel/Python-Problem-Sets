@@ -2,7 +2,7 @@
 Weekly course assignments
 
 This Repository includes my solutions to Weekly Course Assignments of the GMIT Programming and Scripting Module. 
-The Language used is [Python]{https://www.python.org/}. 
+The Language used is [Python](https://www.python.org/). 
 Due by 09/04/2018
 
 - Exercises 1 & 2 can be found in: Fibonacci Ex.py
